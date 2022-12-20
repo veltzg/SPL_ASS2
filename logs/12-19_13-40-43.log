@@ -1,0 +1,39 @@
+[13:40:43.644] [INFO   ] thread main starting.
+[13:40:43.650] [SEVERE ] cannot read configuration file config.properties trying from resources.
+[13:40:43.653] [SEVERE ] configuration file was loaded from resources directory.
+[13:40:44.161] [INFO   ] thread dealer starting.
+[13:40:44.283] [SEVERE ] placing card 25 in slot 0
+[13:40:44.385] [SEVERE ] placing card 68 in slot 1
+[13:40:44.496] [SEVERE ] placing card 16 in slot 2
+[13:40:44.603] [SEVERE ] placing card 35 in slot 3
+[13:40:44.718] [SEVERE ] placing card 57 in slot 4
+[13:40:44.833] [SEVERE ] placing card 24 in slot 5
+[13:40:44.943] [SEVERE ] placing card 29 in slot 6
+[13:40:45.046] [SEVERE ] placing card 15 in slot 7
+[13:40:45.157] [SEVERE ] placing card 41 in slot 8
+[13:40:45.274] [SEVERE ] placing card 35 in slot 9
+[13:40:45.384] [SEVERE ] placing card 22 in slot 10
+[13:40:45.487] [SEVERE ] placing card 24 in slot 11
+[13:41:05.124] [SEVERE ] key 67 was pressed by player 1
+[13:41:05.124] [SEVERE ] player 1 placing token on slot 10
+[13:41:07.440] [SEVERE ] key 65 was pressed by player 1
+[13:41:07.440] [SEVERE ] player 1 placing token on slot 4
+[13:41:11.041] [SEVERE ] key 90 was pressed by player 1
+[13:41:11.041] [SEVERE ] player 1 placing token on slot 8
+[13:41:11.041] [SEVERE ] removing all tokens
+[13:41:11.157] [SEVERE ] removing card from slot 4
+[13:41:11.157] [SEVERE ] removing all tokens
+[13:41:11.267] [SEVERE ] removing card from slot 8
+[13:41:11.267] [SEVERE ] removing all tokens
+[13:41:11.378] [SEVERE ] removing card from slot 10
+[13:41:11.378] [SEVERE ] setting player 1 score to 1
+[13:41:11.489] [SEVERE ] placing card 65 in slot 4
+[13:41:11.603] [SEVERE ] placing card 25 in slot 8
+[13:41:11.713] [SEVERE ] placing card 72 in slot 10
+[13:41:13.760] [SEVERE ] key 90 was pressed by player 1
+[13:41:14.510] [SEVERE ] key 90 was pressed by player 1
+[13:41:14.854] [SEVERE ] key 90 was pressed by player 1
+[13:41:15.132] [SEVERE ] key 65 was pressed by player 1
+[13:41:17.883] [SEVERE ] exit button pressed
+[13:41:17.883] [SEVERE ] thanks for playing... it was fun!
+[13:41:17.884] [INFO   ] thread main terminated.

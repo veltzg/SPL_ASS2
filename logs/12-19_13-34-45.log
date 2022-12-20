@@ -1,0 +1,33 @@
+[13:34:45.077] [INFO   ] thread main starting.
+[13:34:45.077] [SEVERE ] cannot read configuration file config.properties trying from resources.
+[13:34:45.077] [SEVERE ] configuration file was loaded from resources directory.
+[13:34:45.696] [INFO   ] thread dealer starting.
+[13:34:45.808] [SEVERE ] placing card 45 in slot 0
+[13:34:45.917] [SEVERE ] placing card 73 in slot 1
+[13:34:46.030] [SEVERE ] placing card 75 in slot 2
+[13:34:46.150] [SEVERE ] placing card 3 in slot 3
+[13:34:46.258] [SEVERE ] placing card 35 in slot 4
+[13:34:46.372] [SEVERE ] placing card 32 in slot 5
+[13:34:46.479] [SEVERE ] placing card 27 in slot 6
+[13:34:46.604] [SEVERE ] placing card 55 in slot 7
+[13:34:46.715] [SEVERE ] placing card 50 in slot 8
+[13:34:46.825] [SEVERE ] placing card 33 in slot 9
+[13:34:46.936] [SEVERE ] placing card 17 in slot 10
+[13:34:47.047] [SEVERE ] placing card 42 in slot 11
+[13:34:53.166] [SEVERE ] key 88 was pressed by player 1
+[13:34:53.166] [SEVERE ] player 1 placing token on slot 9
+[13:34:53.642] [SEVERE ] key 88 was pressed by player 1
+[13:34:53.642] [SEVERE ] removing player 1 token from slot 9
+[13:34:54.445] [SEVERE ] key 67 was pressed by player 1
+[13:34:54.445] [SEVERE ] player 1 placing token on slot 10
+[13:34:59.399] [SEVERE ] key 68 was pressed by player 1
+[13:34:59.399] [SEVERE ] player 1 placing token on slot 6
+[13:35:00.536] [SEVERE ] key 69 was pressed by player 1
+[13:35:00.536] [SEVERE ] player 1 placing token on slot 2
+[13:35:18.834] [SEVERE ] key 82 was pressed by player 1
+[13:35:19.355] [SEVERE ] key 69 was pressed by player 1
+[13:35:19.786] [SEVERE ] key 69 was pressed by player 1
+[13:35:20.114] [SEVERE ] key 69 was pressed by player 1
+[13:35:20.617] [SEVERE ] exit button pressed
+[13:35:20.617] [SEVERE ] thanks for playing... it was fun!
+[13:35:20.617] [INFO   ] thread main terminated.

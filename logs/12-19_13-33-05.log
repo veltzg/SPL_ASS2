@@ -1,0 +1,44 @@
+[13:33:05.048] [INFO   ] thread main starting.
+[13:33:05.048] [SEVERE ] cannot read configuration file config.properties trying from resources.
+[13:33:05.048] [SEVERE ] configuration file was loaded from resources directory.
+[13:33:05.484] [INFO   ] thread dealer starting.
+[13:33:05.606] [SEVERE ] placing card 32 in slot 0
+[13:33:05.718] [SEVERE ] placing card 28 in slot 1
+[13:33:05.821] [SEVERE ] placing card 29 in slot 2
+[13:33:05.932] [SEVERE ] placing card 61 in slot 3
+[13:33:06.038] [SEVERE ] placing card 24 in slot 4
+[13:33:06.149] [SEVERE ] placing card 38 in slot 5
+[13:33:06.260] [SEVERE ] placing card 65 in slot 6
+[13:33:06.371] [SEVERE ] placing card 68 in slot 7
+[13:33:06.482] [SEVERE ] placing card 5 in slot 8
+[13:33:06.593] [SEVERE ] placing card 29 in slot 9
+[13:33:06.703] [SEVERE ] placing card 67 in slot 10
+[13:33:06.815] [SEVERE ] placing card 36 in slot 11
+[13:33:09.994] [SEVERE ] key 65 was pressed by player 1
+[13:33:09.994] [SEVERE ] player 1 placing token on slot 4
+[13:33:11.615] [SEVERE ] key 69 was pressed by player 1
+[13:33:11.615] [SEVERE ] player 1 placing token on slot 2
+[13:33:12.065] [SEVERE ] key 69 was pressed by player 1
+[13:33:12.065] [SEVERE ] removing player 1 token from slot 2
+[13:33:12.257] [SEVERE ] key 87 was pressed by player 1
+[13:33:12.257] [SEVERE ] player 1 placing token on slot 1
+[13:33:13.798] [SEVERE ] key 70 was pressed by player 1
+[13:33:13.798] [SEVERE ] player 1 placing token on slot 7
+[13:33:13.798] [SEVERE ] removing all tokens
+[13:33:13.922] [SEVERE ] removing card from slot 1
+[13:33:13.922] [SEVERE ] removing all tokens
+[13:33:14.032] [SEVERE ] removing card from slot 4
+[13:33:14.032] [SEVERE ] removing all tokens
+[13:33:14.140] [SEVERE ] removing card from slot 7
+[13:33:14.140] [SEVERE ] setting player 1 score to 1
+[13:33:14.246] [SEVERE ] placing card 67 in slot 1
+[13:33:14.357] [SEVERE ] placing card 32 in slot 4
+[13:33:14.468] [SEVERE ] placing card 57 in slot 7
+[13:33:19.928] [SEVERE ] key 65 was pressed by player 1
+[13:33:20.306] [SEVERE ] key 65 was pressed by player 1
+[13:33:20.606] [SEVERE ] key 65 was pressed by player 1
+[13:33:20.850] [SEVERE ] key 83 was pressed by player 1
+[13:33:21.441] [SEVERE ] key 69 was pressed by player 1
+[13:33:25.192] [SEVERE ] exit button pressed
+[13:33:25.192] [SEVERE ] thanks for playing... it was fun!
+[13:33:25.193] [INFO   ] thread main terminated.

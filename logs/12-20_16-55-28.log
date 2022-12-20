@@ -1,0 +1,216 @@
+[16:55:28.980] [INFO   ] thread main starting.
+[16:55:28.980] [SEVERE ] cannot read configuration file config.properties trying from resources.
+[16:55:28.980] [SEVERE ] configuration file was loaded from resources directory.
+[16:55:29.411] [INFO   ] thread dealer starting.
+[16:55:29.471] [SEVERE ] player 2 placing token on slot 11
+[16:55:29.472] [SEVERE ] player 1 placing token on slot 1
+[16:55:29.472] [SEVERE ] player 2 placing token on slot 9
+[16:55:29.472] [SEVERE ] player 1 placing token on slot 5
+[16:55:29.520] [SEVERE ] placing card 10 in slot 0
+[16:55:29.572] [SEVERE ] removing player 2 token from slot 9
+[16:55:29.582] [SEVERE ] player 2 placing token on slot 1
+[16:55:29.586] [SEVERE ] player 1 placing token on slot 11
+[16:55:29.621] [SEVERE ] placing card 32 in slot 1
+[16:55:29.674] [SEVERE ] removing player 2 token from slot 1
+[16:55:29.674] [SEVERE ] player 2 placing token on slot 5
+[16:55:29.722] [SEVERE ] placing card 24 in slot 2
+[16:55:29.787] [SEVERE ] player 2 placing token on slot 4
+[16:55:29.823] [SEVERE ] placing card 50 in slot 3
+[16:55:29.924] [SEVERE ] placing card 6 in slot 4
+[16:55:30.028] [SEVERE ] placing card 28 in slot 5
+[16:55:30.146] [SEVERE ] placing card 34 in slot 6
+[16:55:30.260] [SEVERE ] placing card 35 in slot 7
+[16:55:30.370] [SEVERE ] placing card 15 in slot 8
+[16:55:30.485] [SEVERE ] placing card 45 in slot 9
+[16:55:30.594] [SEVERE ] placing card 74 in slot 10
+[16:55:30.707] [SEVERE ] placing card 33 in slot 11
+[16:55:30.710] [SEVERE ] updating countdown to 60000
+[16:55:30.818] [SEVERE ] updating countdown to 59890
+[16:55:30.819] [SEVERE ] removing all tokens
+[16:55:30.933] [SEVERE ] removing card from slot 1
+[16:55:30.933] [SEVERE ] removing all tokens
+[16:55:31.043] [SEVERE ] removing card from slot 5
+[16:55:31.043] [SEVERE ] removing all tokens
+[16:55:31.153] [SEVERE ] removing card from slot 11
+[16:55:31.264] [SEVERE ] placing card 8 in slot 1
+[16:55:31.380] [SEVERE ] placing card 68 in slot 5
+[16:55:31.482] [SEVERE ] placing card 71 in slot 11
+[16:55:31.482] [SEVERE ] setting player 1 score to 1
+[16:55:31.546] [SEVERE ] player 1 placing token on slot 6
+[16:55:31.546] [SEVERE ] player 1 placing token on slot 7
+[16:55:31.593] [SEVERE ] updating countdown to 59115
+[16:55:31.594] [SEVERE ] removing player 2 token from slot 4
+[16:55:31.594] [SEVERE ] setting player 2 score to -1
+[16:55:31.595] [SEVERE ] player 2 placing token on slot 6
+[16:55:31.595] [SEVERE ] player 2 placing token on slot 8
+[16:55:31.609] [SEVERE ] player 1 placing token on slot 4
+[16:55:31.706] [SEVERE ] updating countdown to 59002
+[16:55:31.706] [SEVERE ] removing player 2 token from slot 6
+[16:55:31.707] [SEVERE ] removing player 2 token from slot 8
+[16:55:31.707] [SEVERE ] setting player 2 score to -2
+[16:55:31.820] [SEVERE ] updating countdown to 58888
+[16:55:31.821] [SEVERE ] removing player 1 token from slot 4
+[16:55:31.822] [SEVERE ] removing player 1 token from slot 6
+[16:55:31.822] [SEVERE ] removing player 1 token from slot 7
+[16:55:31.822] [SEVERE ] setting player 1 score to 0
+[16:55:31.873] [SEVERE ] player 1 placing token on slot 3
+[16:55:31.873] [SEVERE ] player 1 placing token on slot 9
+[16:55:31.924] [SEVERE ] updating countdown to 58784
+[16:55:31.924] [SEVERE ] player 1 placing token on slot 5
+[16:55:32.025] [SEVERE ] updating countdown to 58683
+[16:55:32.025] [SEVERE ] removing player 1 token from slot 3
+[16:55:32.027] [SEVERE ] removing player 1 token from slot 5
+[16:55:32.027] [SEVERE ] removing player 1 token from slot 9
+[16:55:32.027] [SEVERE ] setting player 1 score to -1
+[16:55:32.027] [SEVERE ] player 1 placing token on slot 5
+[16:55:32.028] [SEVERE ] player 1 placing token on slot 4
+[16:55:32.129] [SEVERE ] updating countdown to 58579
+[16:55:32.131] [SEVERE ] player 1 placing token on slot 8
+[16:55:32.229] [SEVERE ] updating countdown to 58479
+[16:55:32.230] [SEVERE ] removing player 1 token from slot 4
+[16:55:32.230] [SEVERE ] removing player 1 token from slot 5
+[16:55:32.230] [SEVERE ] removing player 1 token from slot 8
+[16:55:32.230] [SEVERE ] setting player 1 score to -2
+[16:55:32.231] [SEVERE ] player 1 placing token on slot 4
+[16:55:32.231] [SEVERE ] player 1 placing token on slot 3
+[16:55:32.332] [SEVERE ] updating countdown to 58376
+[16:55:32.333] [SEVERE ] player 1 placing token on slot 10
+[16:55:32.432] [SEVERE ] updating countdown to 58276
+[16:55:32.432] [SEVERE ] removing player 1 token from slot 3
+[16:55:32.432] [SEVERE ] removing player 1 token from slot 4
+[16:55:32.433] [SEVERE ] removing player 1 token from slot 10
+[16:55:32.433] [SEVERE ] setting player 1 score to -3
+[16:55:32.486] [SEVERE ] player 1 placing token on slot 9
+[16:55:32.486] [SEVERE ] player 1 placing token on slot 1
+[16:55:32.534] [SEVERE ] updating countdown to 58174
+[16:55:32.537] [SEVERE ] player 1 placing token on slot 0
+[16:55:32.636] [SEVERE ] updating countdown to 58072
+[16:55:32.637] [SEVERE ] removing player 1 token from slot 0
+[16:55:32.637] [SEVERE ] removing player 1 token from slot 1
+[16:55:32.639] [SEVERE ] removing player 1 token from slot 9
+[16:55:32.639] [SEVERE ] setting player 1 score to -4
+[16:55:32.640] [SEVERE ] player 1 placing token on slot 4
+[16:55:32.640] [SEVERE ] player 1 placing token on slot 9
+[16:55:32.740] [SEVERE ] updating countdown to 57968
+[16:55:32.741] [SEVERE ] player 1 placing token on slot 8
+[16:55:32.842] [SEVERE ] updating countdown to 57866
+[16:55:32.842] [SEVERE ] removing player 1 token from slot 4
+[16:55:32.842] [SEVERE ] removing player 1 token from slot 8
+[16:55:32.842] [SEVERE ] removing player 1 token from slot 9
+[16:55:32.843] [SEVERE ] setting player 1 score to -5
+[16:55:32.843] [SEVERE ] player 1 placing token on slot 10
+[16:55:32.843] [SEVERE ] player 1 placing token on slot 11
+[16:55:32.944] [SEVERE ] updating countdown to 57764
+[16:55:32.947] [SEVERE ] player 1 placing token on slot 1
+[16:55:33.045] [SEVERE ] updating countdown to 57663
+[16:55:33.045] [SEVERE ] removing player 1 token from slot 1
+[16:55:33.046] [SEVERE ] removing player 1 token from slot 10
+[16:55:33.047] [SEVERE ] removing player 1 token from slot 11
+[16:55:33.047] [SEVERE ] setting player 1 score to -6
+[16:55:33.099] [SEVERE ] player 1 placing token on slot 4
+[16:55:33.099] [SEVERE ] player 1 placing token on slot 7
+[16:55:33.149] [SEVERE ] updating countdown to 57559
+[16:55:33.151] [SEVERE ] player 1 placing token on slot 1
+[16:55:33.251] [SEVERE ] updating countdown to 57457
+[16:55:33.251] [SEVERE ] removing player 1 token from slot 1
+[16:55:33.252] [SEVERE ] removing player 1 token from slot 4
+[16:55:33.252] [SEVERE ] removing player 1 token from slot 7
+[16:55:33.253] [SEVERE ] setting player 1 score to -7
+[16:55:33.304] [SEVERE ] player 1 placing token on slot 7
+[16:55:33.304] [SEVERE ] player 1 placing token on slot 1
+[16:55:33.355] [SEVERE ] updating countdown to 57353
+[16:55:33.356] [SEVERE ] player 1 placing token on slot 6
+[16:55:33.456] [SEVERE ] updating countdown to 57252
+[16:55:33.456] [SEVERE ] removing player 1 token from slot 1
+[16:55:33.458] [SEVERE ] removing player 1 token from slot 6
+[16:55:33.459] [SEVERE ] removing player 1 token from slot 7
+[16:55:33.459] [SEVERE ] setting player 1 score to -8
+[16:55:33.510] [SEVERE ] player 1 placing token on slot 5
+[16:55:33.510] [SEVERE ] player 1 placing token on slot 6
+[16:55:33.560] [SEVERE ] updating countdown to 57148
+[16:55:33.562] [SEVERE ] removing player 1 token from slot 6
+[16:55:33.562] [SEVERE ] player 1 placing token on slot 1
+[16:55:33.661] [SEVERE ] updating countdown to 57047
+[16:55:33.665] [SEVERE ] player 1 placing token on slot 6
+[16:55:33.762] [SEVERE ] updating countdown to 56946
+[16:55:33.762] [SEVERE ] removing player 1 token from slot 1
+[16:55:33.763] [SEVERE ] removing player 1 token from slot 5
+[16:55:33.763] [SEVERE ] removing player 1 token from slot 6
+[16:55:33.764] [SEVERE ] setting player 1 score to -9
+[16:55:33.815] [SEVERE ] player 1 placing token on slot 9
+[16:55:33.815] [SEVERE ] player 1 placing token on slot 1
+[16:55:33.865] [SEVERE ] updating countdown to 56843
+[16:55:33.867] [SEVERE ] player 1 placing token on slot 6
+[16:55:33.968] [SEVERE ] updating countdown to 56740
+[16:55:33.968] [SEVERE ] removing player 1 token from slot 1
+[16:55:33.969] [SEVERE ] removing player 1 token from slot 6
+[16:55:33.969] [SEVERE ] removing player 1 token from slot 9
+[16:55:33.970] [SEVERE ] setting player 1 score to -10
+[16:55:34.022] [SEVERE ] player 1 placing token on slot 5
+[16:55:34.022] [SEVERE ] player 1 placing token on slot 0
+[16:55:34.071] [SEVERE ] updating countdown to 56637
+[16:55:34.074] [SEVERE ] player 1 placing token on slot 10
+[16:55:34.172] [SEVERE ] updating countdown to 56536
+[16:55:34.172] [SEVERE ] removing player 1 token from slot 0
+[16:55:34.172] [SEVERE ] removing player 1 token from slot 5
+[16:55:34.173] [SEVERE ] removing player 1 token from slot 10
+[16:55:34.173] [SEVERE ] setting player 1 score to -11
+[16:55:34.225] [SEVERE ] player 1 placing token on slot 0
+[16:55:34.225] [SEVERE ] player 1 placing token on slot 9
+[16:55:34.274] [SEVERE ] updating countdown to 56434
+[16:55:34.276] [SEVERE ] player 1 placing token on slot 4
+[16:55:34.377] [SEVERE ] updating countdown to 56331
+[16:55:34.378] [SEVERE ] removing player 1 token from slot 0
+[16:55:34.378] [SEVERE ] removing player 1 token from slot 4
+[16:55:34.378] [SEVERE ] removing player 1 token from slot 9
+[16:55:34.378] [SEVERE ] setting player 1 score to -12
+[16:55:34.379] [SEVERE ] player 1 placing token on slot 11
+[16:55:34.379] [SEVERE ] player 1 placing token on slot 6
+[16:55:34.480] [SEVERE ] player 1 placing token on slot 8
+[16:55:34.481] [SEVERE ] updating countdown to 56227
+[16:55:34.481] [SEVERE ] removing player 1 token from slot 6
+[16:55:34.481] [SEVERE ] removing player 1 token from slot 8
+[16:55:34.481] [SEVERE ] removing player 1 token from slot 11
+[16:55:34.481] [SEVERE ] setting player 1 score to -13
+[16:55:34.632] [SEVERE ] updating countdown to 56076
+[16:55:34.733] [SEVERE ] updating countdown to 55975
+[16:55:34.835] [SEVERE ] updating countdown to 55873
+[16:55:34.936] [SEVERE ] updating countdown to 55772
+[16:55:35.038] [SEVERE ] updating countdown to 55670
+[16:55:35.139] [SEVERE ] updating countdown to 55569
+[16:55:35.240] [SEVERE ] updating countdown to 55468
+[16:55:35.342] [SEVERE ] updating countdown to 55366
+[16:55:35.443] [SEVERE ] updating countdown to 55265
+[16:55:35.544] [SEVERE ] updating countdown to 55164
+[16:55:35.645] [SEVERE ] updating countdown to 55063
+[16:55:35.746] [SEVERE ] updating countdown to 54962
+[16:55:35.848] [SEVERE ] updating countdown to 54860
+[16:55:35.949] [SEVERE ] updating countdown to 54759
+[16:55:36.051] [SEVERE ] updating countdown to 54657
+[16:55:36.152] [SEVERE ] updating countdown to 54556
+[16:55:36.253] [SEVERE ] updating countdown to 54455
+[16:55:36.355] [SEVERE ] updating countdown to 54353
+[16:55:36.456] [SEVERE ] updating countdown to 54252
+[16:55:36.557] [SEVERE ] updating countdown to 54151
+[16:55:36.658] [SEVERE ] updating countdown to 54050
+[16:55:36.759] [SEVERE ] updating countdown to 53949
+[16:55:36.860] [SEVERE ] updating countdown to 53848
+[16:55:36.962] [SEVERE ] updating countdown to 53746
+[16:55:37.063] [SEVERE ] updating countdown to 53645
+[16:55:37.164] [SEVERE ] updating countdown to 53544
+[16:55:37.266] [SEVERE ] updating countdown to 53442
+[16:55:37.367] [SEVERE ] updating countdown to 53341
+[16:55:37.468] [SEVERE ] updating countdown to 53240
+[16:55:37.570] [SEVERE ] updating countdown to 53138
+[16:55:37.672] [SEVERE ] updating countdown to 53036
+[16:55:37.772] [SEVERE ] updating countdown to 52936
+[16:55:37.873] [SEVERE ] updating countdown to 52835
+[16:55:37.974] [SEVERE ] updating countdown to 52734
+[16:55:38.076] [SEVERE ] updating countdown to 52632
+[16:55:38.176] [SEVERE ] updating countdown to 52532
+[16:55:38.279] [SEVERE ] updating countdown to 52429
+[16:55:38.379] [SEVERE ] updating countdown to 52329
+[16:55:38.481] [SEVERE ] updating countdown to 52227
+[16:55:38.519] [SEVERE ] exit button pressed
+[16:55:38.519] [SEVERE ] thanks for playing... it was fun!
+[16:55:38.520] [INFO   ] thread main terminated.

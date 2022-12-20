@@ -1,0 +1,29 @@
+[16:08:58.581] [INFO   ] thread main starting.
+[16:08:58.581] [SEVERE ] cannot read configuration file config.properties trying from resources.
+[16:08:58.581] [SEVERE ] configuration file was loaded from resources directory.
+[16:08:59.036] [INFO   ] thread dealer starting.
+[16:08:59.100] [SEVERE ] player 2 placing token on slot 7
+[16:08:59.102] [SEVERE ] player 2 placing token on slot 1
+[16:08:59.149] [SEVERE ] placing card 12 in slot 0
+[16:08:59.205] [SEVERE ] player 2 placing token on slot 9
+[16:08:59.260] [SEVERE ] placing card 72 in slot 1
+[16:08:59.372] [SEVERE ] placing card 36 in slot 2
+[16:08:59.496] [SEVERE ] placing card 21 in slot 3
+[16:08:59.611] [SEVERE ] placing card 4 in slot 4
+[16:08:59.731] [SEVERE ] placing card 37 in slot 5
+[16:08:59.846] [SEVERE ] placing card 68 in slot 6
+[16:08:59.958] [SEVERE ] placing card 54 in slot 7
+[16:09:00.064] [SEVERE ] placing card 65 in slot 8
+[16:09:00.176] [SEVERE ] placing card 30 in slot 9
+[16:09:00.286] [SEVERE ] placing card 22 in slot 10
+[16:09:00.398] [SEVERE ] placing card 41 in slot 11
+[16:09:00.398] [SEVERE ] updating countdown to 60000
+[16:09:00.511] [SEVERE ] updating countdown to 59887
+[16:09:00.511] [SEVERE ] removing player 2 token from slot 1
+[16:09:00.511] [SEVERE ] removing player 2 token from slot 7
+[16:09:00.511] [SEVERE ] removing player 2 token from slot 9
+[16:09:00.511] [SEVERE ] setting player 2 score to -1
+[16:09:00.513] [INFO   ] thread dealer terminated.
+[16:09:03.664] [SEVERE ] exit button pressed
+[16:09:03.664] [SEVERE ] thanks for playing... it was fun!
+[16:09:03.665] [INFO   ] thread main terminated.

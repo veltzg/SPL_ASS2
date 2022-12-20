@@ -1,0 +1,61 @@
+[18:37:49.356] [INFO   ] thread main starting.
+[18:37:49.364] [SEVERE ] cannot read configuration file config.properties trying from resources.
+[18:37:49.366] [SEVERE ] configuration file was loaded from resources directory.
+[18:37:49.988] [INFO   ] thread dealer starting.
+[18:37:50.106] [SEVERE ] placing card 45 in slot 0
+[18:37:50.213] [SEVERE ] placing card 54 in slot 1
+[18:37:50.324] [SEVERE ] placing card 6 in slot 2
+[18:37:50.434] [SEVERE ] placing card 48 in slot 3
+[18:37:50.536] [SEVERE ] placing card 0 in slot 4
+[18:37:50.646] [SEVERE ] placing card 30 in slot 5
+[18:37:50.757] [SEVERE ] placing card 69 in slot 6
+[18:37:50.897] [SEVERE ] placing card 13 in slot 7
+[18:37:51.007] [SEVERE ] placing card 75 in slot 8
+[18:37:51.116] [SEVERE ] placing card 32 in slot 9
+[18:37:51.227] [SEVERE ] placing card 13 in slot 10
+[18:37:51.337] [SEVERE ] placing card 22 in slot 11
+[18:37:57.617] [SEVERE ] key 85 was pressed by player 2
+[18:37:57.742] [SEVERE ] key 82 was pressed by player 1
+[18:37:57.911] [SEVERE ] key 73 was pressed by player 2
+[18:37:58.000] [SEVERE ] key 69 was pressed by player 1
+[18:37:58.117] [SEVERE ] key 73 was pressed by player 2
+[18:37:58.195] [SEVERE ] key 69 was pressed by player 1
+[18:37:58.300] [SEVERE ] key 79 was pressed by player 2
+[18:37:58.367] [SEVERE ] key 87 was pressed by player 1
+[18:37:58.486] [SEVERE ] key 79 was pressed by player 2
+[18:37:58.566] [SEVERE ] key 87 was pressed by player 1
+[18:37:58.640] [SEVERE ] key 80 was pressed by player 2
+[18:37:58.813] [SEVERE ] key 76 was pressed by player 2
+[18:37:58.909] [SEVERE ] key 83 was pressed by player 1
+[18:37:58.957] [SEVERE ] key 76 was pressed by player 2
+[18:37:59.116] [SEVERE ] key 83 was pressed by player 1
+[18:37:59.133] [SEVERE ] key 76 was pressed by player 2
+[18:37:59.300] [SEVERE ] key 68 was pressed by player 1
+[18:37:59.310] [SEVERE ] key 75 was pressed by player 2
+[18:37:59.462] [SEVERE ] key 70 was pressed by player 1
+[18:37:59.462] [SEVERE ] key 74 was pressed by player 2
+[18:37:59.866] [SEVERE ] key 86 was pressed by player 1
+[18:38:00.038] [SEVERE ] key 86 was pressed by player 1
+[18:38:00.208] [SEVERE ] key 67 was pressed by player 1
+[18:38:00.271] [SEVERE ] key 77 was pressed by player 2
+[18:38:00.420] [SEVERE ] key 88 was pressed by player 1
+[18:38:00.435] [SEVERE ] key 44 was pressed by player 2
+[18:38:00.595] [SEVERE ] key 44 was pressed by player 2
+[18:38:00.605] [SEVERE ] key 88 was pressed by player 1
+[18:38:00.611] [SEVERE ] key 46 was pressed by player 2
+[18:38:00.960] [SEVERE ] key 76 was pressed by player 2
+[18:38:01.040] [SEVERE ] key 87 was pressed by player 1
+[18:38:01.118] [SEVERE ] key 80 was pressed by player 2
+[18:38:01.209] [SEVERE ] key 87 was pressed by player 1
+[18:38:01.290] [SEVERE ] key 79 was pressed by player 2
+[18:38:01.290] [SEVERE ] key 80 was pressed by player 2
+[18:38:01.353] [SEVERE ] key 69 was pressed by player 1
+[18:38:01.432] [SEVERE ] key 79 was pressed by player 2
+[18:38:01.510] [SEVERE ] key 82 was pressed by player 1
+[18:38:01.589] [SEVERE ] key 73 was pressed by player 2
+[18:38:01.755] [SEVERE ] key 85 was pressed by player 2
+[18:38:01.930] [SEVERE ] key 85 was pressed by player 2
+[18:38:02.073] [SEVERE ] key 85 was pressed by player 2
+[18:38:04.271] [SEVERE ] exit button pressed
+[18:38:04.271] [SEVERE ] thanks for playing... it was fun!
+[18:38:04.273] [INFO   ] thread main terminated.
